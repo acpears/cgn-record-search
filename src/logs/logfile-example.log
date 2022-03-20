@@ -1,0 +1,155 @@
+========== BEGINNING OF LOG ==========
+
+   +--
+   | QUERY: Query records with name: MacDonald Bay, Montréal, Purdom
+   +--
+
+RESULT:
+
+-> Details of the records with the name: MacDonald Bay
+
+	> ID: FCCMI	/ Name: MacDonald Bay / Coordinates: 46.3417400, -78.7331900
+	> ID: FCCMG	/ Name: MacDonald Bay / Coordinates: 44.6555555, -77.9283333
+	> ID: FCCMH	/ Name: MacDonald Bay / Coordinates: 44.6555555, -77.9366667
+	> ID: FCCMJ	/ Name: Macdonald Bay / Coordinates: 46.8815400, -81.5924300
+
+-> Details of the records with the name: Montréal
+
+	*** NO RECORDS FOUND ***
+
+-> Details of the records with the name: Purdom
+
+	> ID: FEJHQ	/ Name: Purdom / Coordinates: 49.1897200, -88.3537200
+
+-----------------------------------------------------
+   +--
+   | QUERY: Query records containing: Fisher, Helens, Sleigh, Saint
+   +--
+
+RESULT:
+
+-> Details of the records containing the substring: Fisher
+
+	> ID: FBEAB	/ Name: Fisher / Coordinates: 46.9320200, -84.5299000
+	> ID: FBEAB	/ Name: Fisher / Coordinates: 46.9320200, -84.5299000
+	> ID: FEIDJ	/ Name: Fisher Bay / Coordinates: 46.2567500, -83.8668300
+	> ID: FEIDI	/ Name: Fisher Bay / Coordinates: 45.7970800, -82.8791500
+	> ID: FEIDM	/ Name: Fisher Creek / Coordinates: 49.9434800, -94.0573100
+	> ID: FEIDL	/ Name: Fisher Creek / Coordinates: 48.8424580, -89.6445290
+	> ID: FEIDK	/ Name: Fisher Creek / Coordinates: 44.2480270, -77.1558540
+	> ID: FEIDN	/ Name: Fisher Creek / Coordinates: 50.1781500, -81.4440400
+	> ID: FETGG	/ Name: Fisher Glen / Coordinates: 45.3509480, -75.7109760
+	> ID: FEIDP	/ Name: Fisher Harbour / Coordinates: 45.9960500, -81.7371100
+	> ID: FEIDQ	/ Name: Fisher Heights / Coordinates: 45.3660700, -75.7201600
+	> ID: FEIDS	/ Name: Fisher Island / Coordinates: 44.5497400, -76.0167700
+	> ID: FEIDU	/ Name: Fisher Island / Coordinates: 46.1320800, -82.5656400
+	> ID: FEIDR	/ Name: Fisher Island / Coordinates: 44.5570460, -75.7118420
+	> ID: FEIDV	/ Name: Fisher Islands / Coordinates: 51.0476930, -93.9342200
+	> ID: FEIEH	/ Name: Fisher Lake / Coordinates: 49.6058334, -90.9950000
+	> ID: FEIEA	/ Name: Fisher Lake / Coordinates: 46.9918000, -81.2035600
+	> ID: FBEAC	/ Name: Fisher Lake / Coordinates: 49.5647980, -93.5515650
+	> ID: FEIEC	/ Name: Fisher Lake / Coordinates: 47.5731250, -80.9454860
+	> ID: FEIEB	/ Name: Fisher Lake / Coordinates: 47.1061882, -81.1932493
+	> ID: FEEVD	/ Name: Fisher Lake / Coordinates: 46.8980710, -80.5786290
+	> ID: FEIDZ	/ Name: Fisher Lake / Coordinates: 45.5494444, -78.3916666
+	> ID: FEIEI	/ Name: Fisher Lake / Coordinates: 50.4106700, -90.7295700
+	> ID: FEIEE	/ Name: Fisher Lake / Coordinates: 48.1090130, -91.2450640
+	> ID: FEIEG	/ Name: Fisher Lake / Coordinates: 49.5800000, -84.5705555
+	> ID: FEIDW	/ Name: Fisher Lake / Coordinates: 44.9117310, -78.9289180
+	> ID: FEIEF	/ Name: Fisher Lake / Coordinates: 48.8712440, -88.7182830
+	> ID: FEIED	/ Name: Fisher Lake / Coordinates: 47.8199560, -84.7059960
+	> ID: FEIDX	/ Name: Fisher Lake / Coordinates: 45.3828250, -78.7974340
+	> ID: FDGRS	/ Name: Fisher Lake / Coordinates: 48.5930880, -80.8841070
+	> ID: FBEAH	/ Name: Fisher Mills / Coordinates: 43.4355555, -80.3358333
+	> ID: FETFA	/ Name: Fisher Park / Coordinates: 45.3973440, -75.7369800
+	> ID: FEIEU	/ Name: Fisher Portage / Coordinates: 49.9607750, -94.0418880
+	> ID: FBEAI	/ Name: Fisher Rock / Coordinates: 48.7547300, -87.7810100
+	> ID: FBEAK	/ Name: Fisher Shoal / Coordinates: 46.2577778, -83.8722222
+	> ID: FEPPH	/ Name: Fisher-Cornell Conservation Area / Coordinates: 42.7166670, -80.3000000
+	> ID: FBEOC	/ Name: Flying Fisher Lake / Coordinates: 45.2677778, -78.3008333
+
+-> Details of the records containing the substring: Helens
+
+	> ID: FBMYU	/ Name: Helens Rest Island / Coordinates: 45.2688230, -80.2478940
+	> ID: FDSZQ	/ Name: St. Helens / Coordinates: 43.9030556, -81.5100000
+	> ID: FDSZR	/ Name: St. Helens Creek / Coordinates: 43.8973320, -81.5891030
+	> ID: FECGL	/ Name: St. Helens Island / Coordinates: 45.2785100, -80.0789160
+	> ID: FDSZS	/ Name: St. Helens Island / Coordinates: 45.1327778, -79.6775000
+
+-> Details of the records containing the substring: Sleigh
+
+	> ID: FCPBS	/ Name: Sleigh Creek / Coordinates: 48.3556780, -90.6713750
+	> ID: FEREF	/ Name: Sleigh Island / Coordinates: 45.5994630, -77.7075130
+	> ID: FCPBT	/ Name: Sleigh Lake / Coordinates: 48.4355050, -90.6592690
+	> ID: FCPBU	/ Name: Sleigh Lake / Coordinates: 49.9629750, -94.0145550
+
+-> Details of the records containing the substring: Saint
+
+	> ID: FEFLT	/ Name: Fleuve Saint-Laurent / Coordinates: 49.6666667, -64.5000000
+	> ID: FLAFY	/ Name: Lac Saint-François / Coordinates: 45.1392852, -74.4330515
+	> ID: FEZWZ	/ Name: Lieu historique national du Canada de la Mission-Saint-Louis / Coordinates: 44.7166670, -79.7730560
+	> ID: FEZWY	/ Name: Saint-Louis Mission National Historic Site of Canada / Coordinates: 44.7166670, -79.7730560
+	> ID: FESNV	/ Name: Saint-Pascal-Baylon / Coordinates: 45.4947220, -75.1558330
+
+-----------------------------------------------------
+   +--
+   | QUERY: Query records with coordinates: 45.2047130,-79.6531200
+   +--
+
+RESULT:
+
+	> ID: FDPDT	/ Name: Pickering Lake / Coordinates: 45.2047130, -79.6531200
+
+-----------------------------------------------------
+   +--
+   | QUERY: Query records between coordinates: 49.5,49.6,-85.5,-85.4
+   +--
+
+RESULT:
+
+	> ID: FDQPY	/ Name: Pincers Lake / Coordinates: 49.5829600, -85.4846200
+	> ID: FIEEF	/ Name: North Thornben Lake Moraine Conservation Reserve / Coordinates: 49.5492430, -85.4373310
+	> ID: FCVZN	/ Name: Thornben Lake / Coordinates: 49.5305556, -85.4425000
+	> ID: FCYET	/ Name: Turtle Lake / Coordinates: 49.5276100, -85.4959660
+	> ID: FCWQJ	/ Name: Toch Lake / Coordinates: 49.5261111, -85.4741667
+	> ID: FDYFT	/ Name: One Shot Lake / Coordinates: 49.5222222, -85.4363889
+	> ID: FAOKF	/ Name: Dead Shot Lake / Coordinates: 49.5211111, -85.4616667
+	> ID: FBLDX	/ Name: Half Shot Lake / Coordinates: 49.5152778, -85.4558333
+	> ID: FEHOE	/ Name: Decoy Lake / Coordinates: 49.5149300, -85.4895800
+	> ID: FCPUN	/ Name: Snowflake Lake / Coordinates: 49.5097222, -85.4511111
+	> ID: FBBMW	/ Name: Ebba Creek / Coordinates: 49.5044444, -85.4077777
+
+-----------------------------------------------------
+   +--
+   | QUERY: Query coordinates of: Butternut Point
+   +--
+
+RESULT:
+
+Coordinates of the records with the name: Butternut Point
+
+	> Coordinates: 45.4825000, -76.6877778
+	> Coordinates: 44.4902778, -76.0258333
+
+-----------------------------------------------------
+   +--
+   | QUERY: Query record details with ID: FBQEH, FDAXF, IAJDL
+   +--
+
+RESULT:
+
+Details of the record with id: FBQEH
+
+	> ID: FBQEH	/ Name: Ingall Island / Coordinates: 44.4827090, -75.8021210
+
+Details of the record with id: FDAXF
+
+	> ID: FDAXF	/ Name: Walter Creek / Coordinates: 50.3034500, -86.3756400
+
+Details of the record with id: IAJDL
+
+	*** NO RECORD FOUND ***
+
+-----------------------------------------------------
+
+========== END OF LOG ==========

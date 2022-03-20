@@ -1,0 +1,27 @@
+------- QUERY FILE INFORMATION -------
+NOTES: 
+-   Only lines starting with the word "Query" will be read
+-   x and y are latitude and longitude respectively and need to be written in decimal format (eg. -38.12, 2, 31.0, etc)
+-   String elements after ':' are your query inputs. Each individual input must be separated by a comma ','
+-   Only the following format and wording of queries will give results:
+
+GENERIC QUERY OPTIONS:
+% Query records with name: name1, name2, etc
+% Query records containing: string1, string2, etc
+% Query records with coordinates: x, y (must have exactly 2 values as input)
+% Query records between coordinates: x1, x2, y1, y2 (must have exactly 4 values as input)
+% Query coordinates of: name1, name2, etc
+% Query record details with ID: id1, id2, etc
+
+EXAMPLE QUERY:
+- The following 6 lines will be the only lines in this file interpreted as queries
+- Please use "cgn_on_csv_eng.csv" as input for this example query
+
+***
+Query records with name: MacDonald Bay, Montréal, Purdom
+Query records containing: Fisher, Helens, Sleigh, Saint
+Query records with coordinates: 45.2047130,-79.6531200
+Query records between coordinates: 49.5,49.6,-85.5,-85.4
+Query coordinates of: Butternut Point
+Query record details with ID: FBQEH, FDAXF, IAJDL
+***
